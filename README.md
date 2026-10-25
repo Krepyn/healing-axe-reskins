@@ -1,12 +1,13 @@
 # how
-download the texture you want from releases and put into your minecraft resource pack folder then enable from in game
+click name of the resource pack from the list below and download the [resourcepack].zip file from releases page, put it into your minecraft resource pack folder and enable from in game
 
 # stuff
-can find more specific attributions inside each folder's readme.md
 
 | Name | Creator |
 | ---- | ------- |
-| Akita Neru | @that_onemikufan* |
-| Hatsune Miku | @that_onemikufan* |
+| [Akita Neru](https://github.com/Krepyn/healing-axe-reskins/releases/tag/neru-v1) | @that_onemikufan* |
+| [Hatsune Miku](https://github.com/Krepyn/healing-axe-reskins/releases/tag/miku-v1) | @that_onemikufan* |
 
-*no hyperlink generally means you can find them on gtnh discord
+*no hyperlink generally means you can find them on gtnh discord 
+
+can find more specific attributions inside each folder's readme.md
