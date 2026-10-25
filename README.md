@@ -7,6 +7,7 @@ click name of the resource pack from the list below and download the [resourcepa
 | ---- | ------- |
 | [Akita Neru](https://github.com/Krepyn/healing-axe-reskins/releases/tag/neru-v1) | @that_onemikufan* |
 | [Hatsune Miku](https://github.com/Krepyn/healing-axe-reskins/releases/tag/miku-v1) | @that_onemikufan* |
+| [Kasane Teto](https://github.com/Krepyn/healing-axe-reskins/releases/tag/teto-v1) | @nevemlaci |
 
 *no hyperlink generally means you can find them on gtnh discord 
 
